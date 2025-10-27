@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "Różnice społeczne, takie jak bieda czy brak wykształcenia, ograniczają wolność i możliwości rozwoju jednostek",
         "effect": {
             "econ": -5,
             "dipl": 10,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "Jednostki mają prawa społeczne, takie jak prawo do pracy, edukacji i przyzwoitych warunków mieszkaniowych",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -171,7 +171,7 @@ questions = [
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "Ludzie powinni mieć prawo zawierać umowy na dowolnych warunkach, nawet jeśli inni uważają je za niemoralne",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
+        "question": "Jednostki powinny mieć prawo do wyrażania swoich poglądów, nawet jeśli są one niepopularne lub kontrowersyjne",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "Wars do not need to be justified to other countries.",
+        "question": "Wolność słowa jest fundamentalna dla zdrowego społeczeństwa",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": "Twórcy powinni mieć prawo do ochrony prawnej swoich dzieł literackich i artystycznych przed nieautoryzowanym kopiowaniem",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "Prawo autorskie powinno chronić interesy twórców także po ich śmierci",
         "effect": {
             "econ": -5,
             "dipl": -10,
@@ -216,7 +216,7 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "Silna ochrona patentowa jest konieczna dla rozwoju innowacji",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -225,7 +225,7 @@ questions = [
         }
     },
     {
-        "question": "Research should be conducted on an international scale.",
+        "question": "Piractwo internetowe jest formą kradzieży i powinno być zwalczane",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "Ochrona własności intelektualnej hamuje rozwój i dostępność innowacji",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -243,7 +243,7 @@ questions = [
         }
     },
     {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "Patenty powinny zostać całkowicie zlikwidowane",
         "effect": {
             "econ": 0,
             "dipl": 5,
@@ -252,7 +252,7 @@ questions = [
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "Prawo dostępu do wiedzy i informacji powinno mieć pierwszeństwo przed ochroną własności intelektualnej",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -261,7 +261,7 @@ questions = [
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "Państwo powinno tolerować różnorodne i konkurujące ze sobą przekonania",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "It is very important to maintain law and order.",
+        "question": "Tolerancja jest warunkiem rozwoju społecznego i współistnienia w społeczeństwie",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -279,7 +279,7 @@ questions = [
         }
     },
     {
-        "question": "The general populace makes poor decisions.",
+        "question": "Tolerancja jest gwarancją autonomii osobistej i stanowi warunek moralnego rozwoju jednostki",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Physician-assisted suicide should be legal.",
+        "question": "Należy pozwolić ludziom móc myśleć, mówić i działać w sposób, którego sami nie akceptujemy",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "question": "Jednostka powinna podporządkować się woli większości, nawet jeśli się z nią nie zgadza",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "Wszystkie istoty ludzkie niezależnie od rasy, wyznania, pochodzenia społecznego i narodowości rodzą się równe w tym sensie, że każda posiada taką samą wartość moralną",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "Prawa nie powinny być zarezerwowane dla określonych grup, takich jak mężczyźni, osoby o określonym kolorze skóry czy wyznaniu",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "Regardless of political opinions, it is important to side with your country.",
+        "question": "Społeczeństwo jest sprawiedliwe, jeśli wszyscy mają szansę rozwijać swoje zdolności na równych zasadach",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -333,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "All authority should be questioned.",
+        "question": "Każdy głos w procesie politycznym powinien mieć taką samą wartość",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "A hierarchical state is best.",
+        "question": "Prawo do udziału w wyborach powinny mieć tylko osoby o wysokich kwalifikacjach lub po zdaniu specjalnych testów",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -351,7 +351,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "question": "Przywileje tylko dla niektórych grup społecznych są niesprawiedliwe",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "The stronger the leadership, the better.",
+        "question": "Władza i prestiż społeczny powinny zależeć od kompetencji i zasług jednostki",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -369,7 +369,7 @@ questions = [
         }
     },
     {
-        "question": "Democracy is more than a decision-making process.",
+        "question": "Społeczeństwo jest sprawiedliwe, jeśli ludzie są oceniani na podstawie ich talentów i charakteru, a nie płci, rasy czy religii",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -378,7 +378,7 @@ questions = [
         }
     },
     {
-        "question": "Environmental regulations are essential.",
+        "question": "Różnice w majątku lub dochodach między ludźmi są czymś naturalnym i nie powinny być sztucznie wyrównywane przez państwo",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -387,7 +387,7 @@ questions = [
         }
     },
     {
-        "question": "A better world will come from automation, science, and technology.",
+        "question": "Sprawiedliwość wymaga poszanowania praw jednostki do uczciwie zdobytego majątku",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "Redystrybucja dobrobytu na rzecz tych, którym powodzi się gorzej jest konieczna dla sprawiedliwego społeczeństwa ",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -405,7 +405,7 @@ questions = [
         }
     },
     {
-        "question": "Traditions are of no value on their own.",
+        "question": "Jednostki mają społeczną odpowiedzialność za troskę o innych, zwłaszcza tych, którzy nie mogą sami o siebie zadbać",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -414,7 +414,7 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Walka z ubóstwem i ignorancją jest wspólną odpowiedzialnością społeczeństwa, a nie tylko jednostek",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "Słuszność polityki lub instytucji należy oceniać według tego, czy zwiększa ogólne szczęście ludzi",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -630,4 +630,5 @@ questions = [
         }
     }
 ];
+
 
