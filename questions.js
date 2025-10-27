@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "Wolność jest pierwszorzędną wartością polityczną, nadrzędną wobec innych dóbr społecznych",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "Ograniczanie władzy instytucji politycznych jest konieczne, by chronić wolność jednostek",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "Państwo i/lub społeczeństwo powinny umożliwiać ludziom dążenie do własnego rozumienia dobrego życia, bez promowania jednej wizji dobra",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "Społeczeństwo należy postrzegać jako zbiór jednostek dążących do zaspokojenia własnych interesów, a nie jako odrębny byt",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Każda jednostka powinna mieć wolność wyboru w kształtowaniu swojego życia i tożsamości",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "Tożsamość jednostki jest definiowana przede wszystkim przez jej wewnętrzne cechy, a nie przynależność do grup (np rasowej, etnicznej, religijnej czy seksualnej)",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "Wolność jednostki powinna być ograniczana tylko w celu zapobieżenia krzywdzie innym",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "Wolność polega na tym, że jednostka jest wolna od zewnętrznych ograniczeń i może działać według własnego wyboru",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "Jednostka jest ważniejsza niż jakakolwiek grupa społeczna lub ciało zbiorowe",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "Porządek społeczny najlepiej funkcjonuje, gdy jednostki kierują się własnym interesem i odpowiedzialnością",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
+        "question": "Ograniczanie wolnych wyborów jednostki jest szkodliwe, ponieważ uniemożliwia im ponoszenie i rozumienie konsekwencji własnych działań",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "Każda jednostka posiada pewne przyrodzone prawa, których nie można im odebrać, z samego faktu bycia człowiekiem",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "question": "Jednostka powinna mieć absolutną wolność w sferze myśli, uczuć i opinii",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "Quality education is a right of all people.",
+        "question": "Nie można zmuszać jednostki do określonych działań dla jej własnego dobra, nawet jeśli byłoby to dla niej korzystne",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "Zachowania seksualne wykraczające poza tradycyjny, monogamiczny model, takie jak homoseksualność czy poliamoria powinny być traktowane na równi z nim przez prawo i społeczeństwo",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "Dążenie do samorealizacji jednostek jest ważniejsze niż dążenie do zaspokajania indywidualnych interesów ",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "Wolność jednostki powinna obejmować nie tylko brak przymusu, ale także możliwość realizacji własnego potencjału dzięki wsparciu społecznemu",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -630,3 +630,4 @@ questions = [
         }
     }
 ];
+
